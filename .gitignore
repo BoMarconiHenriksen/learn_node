@@ -1,6 +1,9 @@
 
 # Created by https://www.gitignore.io/api/node,visualstudiocode
 
+# Ignore this file.
+/variables.env
+
 ### Node ###
 # Logs
 logs
