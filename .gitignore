@@ -3,7 +3,7 @@
 
 # Ignore this file.
 /variables.env
-*.[env]
+*.env
 
 ### Node ###
 # Logs
